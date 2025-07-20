@@ -20,9 +20,15 @@ main{
     justify-content: center;    
 }
 
-.about-main{
-      display: flex;
+.about-main {
+    display: flex;
     background-color: rgb(136, 150, 219);
+    padding: 200px 0;
+    justify-content: center;    
+}
+.contacts-content {
+    display: flex;
+    background-color: rgb(109, 136, 115);
     padding: 200px 0;
     justify-content: center;    
 }
